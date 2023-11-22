@@ -1,0 +1,4 @@
+resource_group_name   = "cloudflare-dev-rg"
+storage_account_name  = "cloudflareshared"
+container_name        = "tfstate"
+key                   = "dev.tfstate"
